@@ -43,11 +43,7 @@ body {
 }
 
 img {
-    display: flex;
-    flex-direction: column;
-    justify-content: space-around;
-    align-items: center;
-    width: 40%;
+    width: 100%;
     border-radius: 10px;
 }
 
