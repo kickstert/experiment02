@@ -61,7 +61,6 @@ p {
 .btn1 {
     padding: 15px;
     margin: 5% auto;
-    width: 10%;
-    min-width: 10%;
+    width: 100%;
     flex-shrink: 0;
 }
