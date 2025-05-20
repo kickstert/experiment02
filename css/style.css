@@ -29,6 +29,7 @@ body {
 
     /* setting the width for each tile */
     width: 40%;
+    min-width: 40%;
 
     /* spacing tiles */
     margin: 5%;
