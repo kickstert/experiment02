@@ -62,4 +62,5 @@ p {
     padding: 15px;
     margin: 5% auto;
     width: 10%;
+    flex-shrink: 0;
 }
