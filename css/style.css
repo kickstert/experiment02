@@ -41,6 +41,7 @@ body {
 
 .flex-tile:hover {
     border: solid #fab3ad 5px;
+    animation: bordercolor 3s infinite;
 }
 
 img {
@@ -74,4 +75,22 @@ p {
 
 .btn1:active {
     width: 90px;
+}
+
+@keyframes bordercolor{
+    0%{
+       border: solid #df8f88 5px; 
+    }
+    25%{
+       border: solid #dfc488 5px; 
+    }
+    50%{
+       border: solid #afdf88 5px; 
+    }
+    75%{
+       border: solid #88d5df 5px; 
+    }
+    100%{
+       border: solid #df88a5 5px; 
+    }
 }
