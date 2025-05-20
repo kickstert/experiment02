@@ -63,4 +63,11 @@ p {
     padding: 5px;
     margin: 5px;
     width: 60px;
+    background-color: #5c5452;
+    color: white;
+}
+
+.btn1:hover {
+    background-color: #2c2827;
+    
 }
